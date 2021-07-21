@@ -1,0 +1,28 @@
+.user-list
+{
+    width: 70%;
+    background-color: aquamarine;
+    margin: 20px auto;
+    padding: 15px 0;
+    border-radius: 5px;
+}
+.user{
+    width: 90%;
+    background-color: chocolate;
+   
+    
+    display: flex;
+    flex-direction: column;
+    margin: 12px auto;
+    border-radius: 5px;
+   
+
+}
+.user p{
+    font-size: larger;
+    padding: 5px ;
+    
+    font-weight: bolder;
+    
+    
+}

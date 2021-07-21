@@ -1,0 +1,25 @@
+.user_form{
+   
+    width: 70%;
+    margin: 10px auto;
+    background-color: antiquewhite;
+    border-radius: 5px;    
+}
+form{
+    display: flex;
+    flex-direction: column;
+    padding: 2.5rem;
+    border-radius: 5px;    
+}
+input{
+    padding: 5px 15px;
+    border-radius: 5px;
+    margin-bottom: 5px;
+}
+button{
+    padding: 5px 10px;
+    background-color: rgb(177, 235, 70);
+    border-radius: 5px;
+    margin: 10px auto;
+    width: 30%;   
+}
